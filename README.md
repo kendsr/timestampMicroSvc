@@ -1,4 +1,4 @@
-A simple microservice that demonstrates using a rout variable to to call
+A simple microservice that demonstrates using a route variable to to call
 an API which returns both a natural language date (ex. January 2, 2016) and
 a unix timestamp for that date.
 
